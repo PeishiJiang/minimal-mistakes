@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Peishi Jiang"
-  avatar           : /assets/image/profile_peishi.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/profile_peishi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate in University of Illinois."
   location         : "Urbana, IL, USA"
   email            : pjiang6@illinois.edu
