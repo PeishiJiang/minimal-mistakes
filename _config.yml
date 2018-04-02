@@ -98,11 +98,12 @@ analytics:
 # Site Author
 author:
   name             : "Peishi Jiang"
-  avatar           : "/assets/image/profile_peishi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_peishi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate in University of Illinois."
   location         : "Urbana, IL, USA"
   email            : pjiang6@illinois.edu
   uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=oYVbtDUAAAAJ&hl=en"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
