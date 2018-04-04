@@ -4,13 +4,6 @@ layout: posts
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.posts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 <!-- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
