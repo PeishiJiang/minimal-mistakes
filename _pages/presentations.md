@@ -3,9 +3,7 @@ layout: archive
 permalink: /presentations/
 author_profile: true
 redirect_from:
-  - /researches
+  - /presentations
 ---
 
 
-To be added
-=====
