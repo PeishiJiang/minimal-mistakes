@@ -4,14 +4,12 @@ layout: home
 author_profile: true
 ---
 
-<h1>Test ... </h1>
+{% include base_path %}
 
-<h1>Blog Posts</h1>
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% for post in site.posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 
 <!-- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
