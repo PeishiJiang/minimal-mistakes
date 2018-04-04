@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: archive
+layout: posts
 author_profile: true
 ---
 
