@@ -1,7 +1,7 @@
 ---
 title: 'Short Notes'
 date: 2018-04-09
-permalink: /posts/short_notes
+permalink: /posts/shortnotes
 tags:
   - research
   - notes
